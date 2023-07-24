@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - CinemachineTarget
+  - Kotak
+  - npc1
+  - npc2
+  - npc3
+  - npc4
+  - npc5
   layers:
   - Default
   - TransparentFX
